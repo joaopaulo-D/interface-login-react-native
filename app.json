@@ -1,0 +1,12 @@
+{
+  "name": "cadastro-template-react-native",
+  "displayName": "cadastro-template-react-native",
+  "expo": {
+    "name": "cadastro-template-react-native",
+    "slug": "cadastro-template-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
